@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ElGamalAlgorithm": {
+      "commandName": "Project",
+      "commandLineArgs": "-k"
+    }
+  }
+}
